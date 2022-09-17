@@ -2,7 +2,7 @@
 
 ![first-website](https://user-images.githubusercontent.com/87386806/190865722-cdc60b2b-ee77-4941-b4c1-1895cffd9f1a.png)
 
-[Clique aqui para acessar](https://alessfelix.github.io/My-first-website/)
+[🔗 Clique aqui para acessar](https://alessfelix.github.io/My-first-website/)
 
 ## 🛠 Tecnologias utilizadas
 
